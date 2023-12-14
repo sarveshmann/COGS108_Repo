@@ -27,7 +27,6 @@
     "\n",
     "# Abstract\n",
     "\n",
-    "Education is a significant factor responsible for improving the productivity of people as the quality of work done by the population improves significantly as they they specialize. The goal of our soceity is to maximize the productivity of the population to ensure that the economy grows which in turn improves the standards of living. Hence, as a means to improve the productivity of the United States, this study analysed income's impact on education to provide direction for government aid. By collecting and analyzing data from the United States Census, the study analysed the relationship between median and mean income with educational attainment statistics such as highschool enrollment rate, highschool graduation rate, associate degree enrollment rate and bachelor degree enrollment rate. The study concluded that income **does not significantly** predict the level of education being obtained, pointing to the fact that other confounding variables may explain educational attainment that were not discovered within this analysis."
    ]
   },
 }
